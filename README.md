@@ -19,6 +19,9 @@ DB_PASSWORD=
 As pa your database settings. 
 
 ### 4:
+Run migration by executing `php artisan migrate`.
+
+### 5:
 Start laravel server by running
 ```vim
 php artisan serve
